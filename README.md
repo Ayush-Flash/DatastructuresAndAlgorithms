@@ -1,1 +1,2 @@
-# DatastructuresAndAlgorithms
+# Authors List
+- Ayush Mishra
